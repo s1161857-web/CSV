@@ -1,0 +1,11 @@
+﻿name,name_en,category,district,opening_hours,best_time_slot,avg_stay_minutes,ticket_hkd,notes,nearby_mtr_or_bus,access,travel_time_hints,geo_hint,url,latitude,longitude
+文武庙,Man Mo Temple,culture;indoor,中西区,Mon–Sun 08:00–18:00,morning,25,0,香火旺，室内；雨天可；节日人多,上环站A2,少量台阶，长者可,文武庙→大馆: walk 8 0 | 文武庙→山顶: bus 25 12,上环,https://zh.wikipedia.org/wiki/文武庙,,
+大馆,Tai Kwun,culture;indoor,中西区,Mon–Sun 10:00–20:00,afternoon,60,0,周末可能需预约时段；展馆分散,中环站D2,电梯可达,大馆→石板街: walk 6 0 | 大馆→山顶: bus 30 12,中环,https://www.taikwun.hk,,
+石板街,Pottinger Street,photo;walk;culture,中西区,Open 24h,morning,15,0,坡度较大，雨天注意防滑,中环站D1,楼梯多，不便婴儿车,石板街→叮叮电车: walk 7 0,中环,,,
+叮叮电车段,Ding Ding Tram,transport;photo,中西区,Mon–Sun 06:00–00:00,afternoon,20,5,拍街景建议短途体验,上环电车站,相对友好,上环→金钟: tram 15 3 | 中环→铜锣湾: tram 25 3,港岛北走廊,,,
+太平山顶广场,The Peak Galleria,sea_view;shopping,中西区,Mon–Sun 10:00–22:00,sunset,40,0,广场免费，凌霄阁观景台需另付费；周末拥挤,山顶巴士站,电梯有,中环(花园道)→山顶: bus 35 12 | 山顶→湾仔: bus 40 12,太平山顶,https://www.thepeak.com.hk,,
+山顶环回步道,Lugard Road,walk;sea_view,中西区,Open 24h,sunset,60,0,日落拍摄佳；夜间注意安全,山顶巴士站,步道狭窄，婴儿车不便,山顶广场→环回步道入口: walk 10 0,太平山顶,,,
+蓝屋,Blue House,culture;photo,湾仔,Tue–Sun 10:00–18:00; Mon Closed,afternoon,30,0,小型展区；周一休馆,湾仔站A3,楼梯较多,金钟→湾仔: mtr 3 6 | 湾仔→蓝屋: walk 8 0,湾仔,https://www.hkheritage.org,,
+利东街,Lee Tung Avenue,food;shopping;photo,湾仔,Mon–Sun 10:00–22:00,evening,45,0,晚间灯饰适合拍照,金钟/湾仔,无障碍友好,蓝屋→利东街: walk 10 0 | 利东街→金钟: mtr 5 6,湾仔,,,
+赤柱市集,Stanley Market,shopping;sea_view,南区,Mon–Sun 10:00–19:00,afternoon,50,0,节假日拥挤；巴士车程较长,赤柱广场巴士站,基本无障碍,中环→赤柱: bus 50 10 | 赤柱→浅水湾: bus 20 6,赤柱,,,
+浅水湾海滩,Repulse Bay Beach,sea_view;walk,南区,Open 24h,afternoon,60,0,夏季日晒强；注意补水,浅水湾巴士站,台阶少,赤柱→浅水湾: bus 20 6 | 浅水湾→金钟: bus 30 10,浅水湾,,,
